@@ -29,7 +29,7 @@ def home():
 
 @app.route("/products")
 def products():
-    return "<h2>Coming Soon - Maatikala Collection</h2>"
+    return render_template("products.html")
 
 @app.route("/about")
 def about():
