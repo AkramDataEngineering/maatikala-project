@@ -9,17 +9,17 @@ products_data = [
     {
         "name": "Terracotta Pot",
         "price": "₹799",
-        "image": "images/front-view-dolma-along-with-yogurt-inside-brown-pots-grey-floor.jpg"
+        "image": "images/products/front-view-dolma-along-with-yogurt-inside-brown-pots-grey-floor.jpg"
     },
     {
         "name": "Clay Diya Set",
         "price": "₹299",
-        "image": "images/front-view-dolma-along-with-yogurt-inside-brown-pots-grey-floor.jpg"
+        "image": "images/products/front-view-dolma-along-with-yogurt-inside-brown-pots-grey-floor.jpg"
     },
     {
         "name": "Mud Table Lamp",
         "price": "₹1,499",
-        "image": "images/front-view-dolma-along-with-yogurt-inside-brown-pots-grey-floor.jpg"
+        "image": "images/products/front-view-dolma-along-with-yogurt-inside-brown-pots-grey-floor.jpg"
     }
 ]
 
