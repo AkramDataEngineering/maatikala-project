@@ -2,7 +2,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__,
             template_folder="templates",
-            static_folder="static/static")
+            static_folder="static")
 
 # Sample product list (later can connect to database)
 products_data = [
