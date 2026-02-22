@@ -29,7 +29,7 @@ def home():
 
 @app.route("/products")
 def products():
-    return render_template("products.html")
+    return render_template("products.html", products=products_data)
 
 @app.route("/about")
 def about():
