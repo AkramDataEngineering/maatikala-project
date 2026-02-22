@@ -8,7 +8,7 @@
     <div class="product-grid">
         {% for product in products %}
         <div class="product-card">
-            <img src="{{ url_for('static', filename=static/images.image) }}" alt="{{ product.name }}">
+            <img src="{{ url_for('static', filename=product.image) }}" alt="{{ product.name }}">
             <h3>{{ product.name }}</h3>
             <p class="price">{{ product.price }}</p>
             <button class="buy-btn">Buy Now</button>
